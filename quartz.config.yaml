@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://alirezamosadegh.pages.dev
+  baseUrl: itsalirezam.github.io
   ignorePatterns:
     - private
     - templates
