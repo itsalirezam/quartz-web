@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://quartz-web.anxiouswhale.pages.dev
+  baseUrl: https://quartz-web.pages.dev/home
   ignorePatterns:
     - private
     - templates
