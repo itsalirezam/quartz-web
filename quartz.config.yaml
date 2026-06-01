@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: itsalirezam.github.io
+  baseUrl: itsalirezam.github.io/quartz-web
   ignorePatterns:
     - private
     - templates
