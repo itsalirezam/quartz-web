@@ -8,3 +8,5 @@ hihihi🤡
 
 از نظام وظیفه خسته ام.\
 مدرکم رو بدید.
+
+does this link work? [[jello]]
