@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: دلقک هستم
+  pageTitle: Alireza's Notegarden
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: itsalirezam.github.io/quartz-web
+  baseUrl: itsalirezam.github.io/notegarden
   ignorePatterns:
     - private
     - templates
